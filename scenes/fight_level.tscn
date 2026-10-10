@@ -6506,6 +6506,7 @@ sources/0 = SubResource("TileSetAtlasSource_7o6h6")
 sources/1 = SubResource("TileSetAtlasSource_flanb")
 
 [node name="fightLevel" type="Node2D" unique_id=427986451]
+position = Vector2(2, 0)
 
 [node name="TileMapLayer" type="TileMapLayer" parent="." unique_id=529054488]
 position = Vector2(3, 10)
